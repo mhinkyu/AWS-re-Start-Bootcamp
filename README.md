@@ -6,8 +6,19 @@ The Repo is organized into 4 sections;
 /AWS-re-Start-Bootcamp
 .
 ├── Bash Scripts
+│   └── README.md
+├── OOP Python
+│   └── README.md
 ├── Projects
+│   ├── Mushroom Classification - Naive base
+│   │   ├── Mushroom.csv
+│   │   ├── README.md
+│   │   ├── agaricus-lepiota.names.csv
+│   │   └── main.py
+│   └── TIC TAC TOE
+│       └── README.md
 ├── Python Scripts
+│   └── README.md
 └── README.md
 ```
 1)Bash Scripts --> Collection of Bash scripts that we're given to write as home assigments, during the bootcamp. \
