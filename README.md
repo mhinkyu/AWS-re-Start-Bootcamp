@@ -16,6 +16,7 @@
 
 ```bash
 /AWS-re-Start-Bootcamp
+9 directories, 23 files
 .
 ├── Bash Scripts
 │   ├── Counter.sh
@@ -23,7 +24,12 @@
 │   ├── Palindrome.sh
 │   ├── README.md
 │   ├── SSH_Connect.sh
-│   └── ShutDown.sh
+│   ├── ShutDown.sh
+│   └── Star pattern arry
+│       ├── Hollow_traingle.sh
+│       ├── Pyramid.sh
+│       ├── README.md
+│       └── x_pattern.sh
 ├── OOP Python
 │   ├── README.md
 │   ├── Random Card Draw
@@ -44,4 +50,5 @@
 ├── Python Scripts
 │   └── README.md
 └── README.md
+
 ```
