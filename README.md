@@ -18,15 +18,27 @@
 /AWS-re-Start-Bootcamp
 .
 ├── Bash Scripts
-│   └── README.md
+│   ├── Counter.sh
+│   ├── PID_state.sh
+│   ├── Palindrome.sh
+│   ├── README.md
+│   ├── SSH_Connect.sh
+│   └── ShutDown.sh
 ├── OOP Python
-│   └── README.md
+│   ├── README.md
+│   ├── Random Card Draw
+│   │   ├── CARDDRAW.py
+│   │   └── README.md
+│   └── Shape calculator
+│       ├── README.md
+│       └── Shape calc.py
 ├── Projects
 │   ├── Mushroom Classification - Naive base
 │   │   ├── Mushroom.csv
 │   │   ├── README.md
 │   │   ├── agaricus-lepiota.names.csv
 │   │   └── main.py
+│   ├── README.md
 │   └── TIC TAC TOE
 │       └── README.md
 ├── Python Scripts
