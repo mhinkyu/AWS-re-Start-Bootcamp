@@ -12,8 +12,6 @@
 4. Python Script --> Collection of Python scrips that we were given to write as home  assigment.
 
 
-
-
 ```bash
 /AWS-re-Start-Bootcamp
 9 directories, 23 files
