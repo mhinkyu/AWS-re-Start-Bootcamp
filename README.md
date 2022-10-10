@@ -3,8 +3,8 @@
 <img src="https://img.shields.io/badge/AWS-re%2FStart-orange" alt="AWS - re/Start" align="center" />
 </div>
 <div align="center">
-<a href="https://python.org" title="Go to Python homepage"><img src="https://img.shields.io/badge/Python-%3E=3.6-blue?logo=python&logoColor=white" alt="Made with Python" align="center" ></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Bash-%3E=3-blue?logo=gnu-bash&logoColor=white" alt="Made with Bash" align="center"></a>
+<img src="https://img.shields.io/badge/Python-%3E=3.6-blue?logo=python&logoColor=white" alt="Made with Python" align="center" ></a>
+<img src="https://img.shields.io/badge/Bash-%3E=3-blue?logo=gnu-bash&logoColor=white" alt="Made with Bash" align="center"></a>
 </div>
 
 
