@@ -1,4 +1,7 @@
-![created date](https://img.shields.io/badge/created--date-4th%20October-blue)
+<div align="center">
+<img src="https://img.shields.io/badge/created--date-4th%20October-blue" align="center" />
+<img src="https://img.shields.io/badge/AWS-re%2FStart-orange" alt="AWS - re/Start" align="center" />
+</div>
 <h1 align=" center "> AWS-re-Start-Bootcamp</h1>
 
 <h3 align="center">This Repo includes various Projects and Scripts that I worked on during the Bootcamp</h3>
