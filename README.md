@@ -23,7 +23,7 @@
 
 ```bash
 /AWS-re-Start-Bootcamp
-9 directories, 27 files
+9 directories, 28 files
 .
 ├── Bash Scripts
 │   ├── Counter.sh
@@ -57,6 +57,7 @@
 │   └── TIC TAC TOE
 │       └── README.md
 ├── Python Scripts
+│   ├── Accuracy.py
 │   ├── Dayoftheweek.py
 │   ├── README.md
 │   └── textspliter.py
